@@ -4,6 +4,7 @@
 -
 [Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
 -
+<p><strong>By Enos & Nehco</strong></p>
 
 <p>XP système</p>
 <p>Rewards menu </p>

@@ -5,15 +5,11 @@
 [Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
 -
 
-XP système
--
-Rewards menu 
--
-Anti-Cheat trigger
--
-Full Config 
--
-Full Logs
+<p>XP système</p>
+<p>Rewards menu </p>
+<p>Anti-Cheat trigger</p>
+<p>Full Config </p>
+<p>Full Logs</p>
 
 **Get le rank :**
 ```

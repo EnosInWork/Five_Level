@@ -1,5 +1,12 @@
 # nxeRewards
  
+
+XP système
+Rewards menu 
+Anti-Cheat trigger
+Full Config 
+Full Logs
+
 **Get le rank :**
 ```
 exports.Five_Level:GetPlayerRank()

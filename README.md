@@ -1,10 +1,15 @@
 # nxeRewards
  
-** Get le rank :**
-```exports.Five_Level:GetPlayerRank()```
+**Get le rank :**
+```
+exports.Five_Level:GetPlayerRank()
+```
  
-** Get l'EXP : ** 
-```exports.Five_Level:GetPlayerXP()```
+**Get l'EXP :** 
+
+```
+exports.Five_Level:GetPlayerXP()
+```
 
 **For Add XP in client :** 
  ```

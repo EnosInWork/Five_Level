@@ -1,10 +1,18 @@
 # nxeRewards
- 
+
+[Voir la vidéo](https://youtu.be/f2SXpMzkUFo)
+-
+[Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
+-
 
 XP système
+-
 Rewards menu 
+-
 Anti-Cheat trigger
+-
 Full Config 
+-
 Full Logs
 
 **Get le rank :**

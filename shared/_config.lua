@@ -9,7 +9,7 @@ Config = {
 		-------------------------	
 		NameLogs = "Logs - XP",
 		-------------------------
-		webhook = "https://discord.com/api/webhooks/985660114860130334/9Id6Tz4it12PR7RsXqys1hr3xgT9o1LP8oXQrEIGnkWiHSqARmguDrQm1ftrsq0YN5aj",
+		webhook = "votrewebhook",
 	},
 
     BannerColor = false, -- Bannière en couleurs 
